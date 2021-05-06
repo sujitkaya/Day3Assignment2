@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    background:black;
+}
+.page-wrapper {
+    height: 100px;
+    width: 100px;
+    margin-left: 1265px;
+
+    background-color:blue;
+
+}
+.page-wrapper1{
+    background-color:rgb(248, 9, 9);
+    margin-left: 100px;
+height: 100px;
+width: 100px;
+margin-left: 1165px;
+
+}
+.page-wrapper2{
+    background-color:green ;
+    margin-left: 200px;
+height: 100px;
+width: 100px;
+margin-left: 1065px;
+
+
+}.page-wrapper3{
+    background-color:yellow;
+    margin-left :300px;
+height: 100px;
+width: 100px;
+margin-left: 965px;
+
+}
